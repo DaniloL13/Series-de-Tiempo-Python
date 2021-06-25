@@ -28,8 +28,8 @@ Una serie temporal se define como una colección de datos sucesivos que se recop
 
 Las series temporales son un caso particular de los procesos estocásticos, ya que un proceso estocástico es una secuencia de variables aleatorias, ordenadas y equidistantes cronológicamente referidas a una característica observable en diferentes momentos.
 
-![Captura de pantalla 2021-06-23 15 07 43](https://user-images.githubusercontent.com/51028737/123475222-b5796100-d5c0-11eb-9b5b-510b977be2fd.png)
-![Captura de pantalla 2021-06-23 15 08 02](https://user-images.githubusercontent.com/51028737/123475238-b9a57e80-d5c0-11eb-87ea-5485dfee0a5e.png)
+![Captura de pantalla 2021-06-23 15 08 02](https://user-images.githubusercontent.com/51028737/123475438-0426fb00-d5c1-11eb-95ad-60fec5c6a704.png)
+
 
 Algunos ejemplos de series temporales vienen de campos como la economía (producto interior bruto anual, tasa de inflación, tasa de desempleo, ...),  la demografía (nacimientos anuales, tasa de dependencia, ...), la meteorología (temperaturas máximas, medias o mínimas, precipitaciones diarias, ...), etc.
 
